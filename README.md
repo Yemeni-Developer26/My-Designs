@@ -13,3 +13,16 @@ Welcome to my work and designs portfolio!
 👉 [اضغط هنا للتواصل عبر الواتساب / Click here to chat](https://wa.me/252657785055)
 
 ![WhatsApp QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://wa.me/252657785055)
+
+---
+
+## 🎨 معرض أعمالي / My Portfolio
+
+### 1. تصاميم الشعارات والهويات / Logos & Branding
+*(هنا سنقوم برفع صور الشعارات التي قمت بتصميمها لاحقاً)*
+
+### 2. تصاميم السوشيال ميديا والإعلانات / Social Media Designs
+*(هنا سنقوم برفع تصاميم الدمج والإعلانات لاحقاً)*
+
+### 3. التصاميم المعمارية والمفاهيمية / Architectural & Concept Designs
+*(هنا سنقوم برفع تصاميم المجالس، الواجهات، والمشاريع الهندسية لاحقاً)*
